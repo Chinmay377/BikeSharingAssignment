@@ -11,9 +11,8 @@
 
 ## General Information
 - Multiple linear regression is performed on the dataset.
-- The project is done as part of coursework in the Machine Learning module. 
 - We are trying to find the number of rentals issued from the company based on numerous independent values such as temperature, weather, humidity, holiday, etc. 
-- The Boombikes bike rental dataset is being used. 
+- The Boombikes bike rental dataset has been used. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
